@@ -9,11 +9,11 @@
 
 ## Installation <a name="installation"></a>
 
-This project reqires the use of pandas, numpy, collections, and matplotlib libraries. Additionally, the datasets can be acquired from stack overflow <a href = "https://insights.stackoverflow.com/survey">here</a>
+This project reqires the use of pandas, numpy, collections, and matplotlib libraries. Additionally, the datasets can be acquired from stack overflow <a href = "https://insights.stackoverflow.com/survey">here</a>.
 
 ## Project Motivation<a name="motivation"></a>
 
-As part of my initial study into data science, I utilized annual survery data from Stack Overflow data 2017 to 2020 to answer the following questions:
+As part of my initial study into data science, I utilized annual survey data from Stack Overflow data 2017 to 2020 to answer the following questions:
 
 1. What programming languages are developers utilizing?
 2. What platforms are developers building for?
