@@ -25,7 +25,7 @@ The repository contains 3 individual notebooks, each answering a specific questi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@tomacro/INSERT_POST_HERE).
+The main findings of the code can be found at the post available [here](https://medium.com/@sharpie4000/trends-from-stack-overflows-annual-developer-survey-66f8cb64c02c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
